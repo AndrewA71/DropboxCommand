@@ -1,0 +1,10 @@
+account_info
+ls
+cd path
+get remote_path local_path
+put local_path remote_path -wm add
+mkdir path
+mv from_path to_path
+rm path
+share path -s
+cmd cmdTestTwo.txt
