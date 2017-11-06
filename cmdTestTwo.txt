@@ -7,4 +7,3 @@ mkdir path
 mv from_path to_path
 rm path
 share path -s
-dfdgd
